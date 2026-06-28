@@ -90,6 +90,7 @@ Free resources for evaluating any answering service script. CC-BY or equivalent 
 - **[OnCrew "Per-Minute Trap"](https://oncrew.ai/blog/per-minute-trap-why-live-answering-services-cost-most-during-your-worst-week)** — Cost analysis using publicly-listed Smith.ai / Ruby / Nexa / PATLive / AnswerConnect rates. Worst-week (heat wave, freeze, hail) peak-pricing math.
 - **[OnCrew Answering Service Cost Calculator](https://oncrew.ai/tools/answering-service-cost-calculator)** — Interactive cost comparison: voicemail vs live answering vs AI vs in-house.
 - **[OnCrew Missed-Call ROI Calculator](https://oncrew.ai/tools/missed-call-calculator)** — Estimate revenue at risk from after-hours voicemail.
+- **[Service Tools Guide — Field Service Software Pricing](https://servicetoolsguide.com/research/state-of-service-software-pricing-2026.html)** — Independent pricing research across 8 FSM platforms. Actual per-tech costs, add-on fees, and plan comparisons.
 
 ## Field service software with phone integration
 
@@ -102,6 +103,7 @@ Contractor CRMs that integrate with answering services or include phone-handling
 - **[JobNimbus](https://www.jobnimbus.com)** — Roofing-heavy contractor CRM.
 - **[BuilderTrend](https://buildertrend.com)** — Construction project management.
 - **[AccuLynx](https://www.acculynx.com)** — Roofing contractor CRM.
+- **[Service Tools Guide](https://servicetoolsguide.com)** — Independent head-to-head comparisons of field service software: [ServiceTitan vs Housecall Pro](https://servicetoolsguide.com/servicetitan-vs-housecall-pro/), [Jobber vs Housecall Pro](https://servicetoolsguide.com/jobber-vs-housecall-pro/), [Workiz vs HCP](https://servicetoolsguide.com/workiz-vs-housecall-pro/), and more.
 - **[mHelpDesk](https://www.mhelpdesk.com)** — Field service management.
 
 ## Open-source voice agent frameworks
