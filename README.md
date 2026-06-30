@@ -35,6 +35,7 @@ Platforms developers build voice agents on. Contractors typically don't deploy t
 - **[ElevenLabs Conversational AI](https://elevenlabs.io/)** — Voice agent platform with the strongest TTS quality in the category. Sub-100ms latency.
 - **[LiveKit Agents](https://github.com/livekit/agents)** — Open-source real-time voice agent framework with WebRTC. Plugin architecture, MCP support.
 - **[Bland AI](https://www.bland.ai/)** — Outbound voice agent platform; purpose-built for sales campaigns.
+- **[Hermes](https://buildwithhermes.com/)**: Operating platform for AI voice agencies. Agencies deploy white-label inbound and outbound voice agents for clients with built-in CRM, campaigns, and billing, replacing the separate Retell, GoHighLevel, Zapier, and Twilio stack. From $149/mo.
 
 ## Verticalized AI answering services for contractors (turnkey)
 
