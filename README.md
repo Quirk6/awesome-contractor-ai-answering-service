@@ -54,6 +54,7 @@ AI receptionists where the contractor writes the trade-specific intake script th
 - **[My AI Front Desk](https://myaifrontdesk.com)** ($65/mo, no overage) — AI receptionist with appointment booking.
 - **[Synthflow](https://synthflow.ai)** — No-code voice agent builder, 200+ integrations. Configure-your-own for contractors.
 - **[Smith.ai AI tier](https://smith.ai)** — AI receptionist tier from a live-receptionist parent brand. Confirm current AI vs human setup path on quote.
+- **[Workforce Wave](https://www.workforcewave.com/)** — AI voice receptionist for SMBs handling 24/7 call answering, appointment booking, lead capture, and after-hours coverage. Based in Mount Pleasant, SC. Bring-your-own-script for trade-specific intake.
 
 ## Live human answering services (warm transfer)
 
