@@ -133,3 +133,5 @@ Open an issue or PR. License: [MIT](LICENSE).
 ---
 
 _Maintained by [OnCrew](https://oncrew.ai) · Contractor AI answering for HVAC, plumbing, electrical, roofing, and adjacent trades · [Press kit](https://oncrew.ai/press) · [Free intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions)_
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser tools for freelancers: invoices, quotes, timesheets, contracts, and client docs. No signup.
