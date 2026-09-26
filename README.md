@@ -54,6 +54,7 @@ AI receptionists where the contractor writes the trade-specific intake script th
 - **[My AI Front Desk](https://myaifrontdesk.com)** ($65/mo, no overage) — AI receptionist with appointment booking.
 - **[Synthflow](https://synthflow.ai)** — No-code voice agent builder, 200+ integrations. Configure-your-own for contractors.
 - **[Smith.ai AI tier](https://smith.ai)** — AI receptionist tier from a live-receptionist parent brand. Confirm current AI vs human setup path on quote.
+- **[Kalyvox](https://kalyvox.ai/en/ai-answering-service)** ([pricing](https://kalyvox.ai/en/pricing)) — Generalist AI receptionist for SMBs handling inbound calls, caller qualification, appointment booking, routing and transfers. _Submitted by the founder._
 
 ## Live human answering services (warm transfer)
 
