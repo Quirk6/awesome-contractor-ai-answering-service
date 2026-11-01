@@ -40,7 +40,7 @@ Platforms developers build voice agents on. Contractors typically don't deploy t
 
 Finished products built FOR contractors with trade-specific intake configured during onboarding. Listed alphabetically.
 
-- **[OnCrew](https://oncrew.ai)** ($49–$349/mo flat, $0.99/call overage, 14-day free trial) — Contractor-specific AI answering for HVAC / plumbing / electrical / roofing / garage-door / appliance-repair / locksmith / pest-control / landscaping / painting / flooring / handyman / fire-restoration. Trade-specific safety branches, Priority-1 SMS handoff to on-call tech within 90 seconds. [Pricing source-of-truth](https://oncrew.ai/pricing). [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions). _Maintainer of this list — own bias._
+- **[OnCrew](https://oncrew.ai)** ($49–$349/mo by included minutes of answered calls, per-minute overage past them, 14-day free trial) — Contractor-specific AI answering for HVAC / plumbing / electrical / roofing / garage-door / appliance-repair / locksmith / pest-control / landscaping / painting / flooring / handyman / fire-restoration. Trade-specific safety branches, Priority-1 SMS handoff to on-call tech within 90 seconds. [Pricing source-of-truth](https://oncrew.ai/pricing). [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions). _Maintainer of this list — own bias._
 
 Send a PR adding any other genuinely-verticalized contractor product. The bar: configured per-trade intake out of the box, not "you write your own script."
 
