@@ -30,7 +30,7 @@ PRs welcome — see [CONTRIBUTING.md](#contributing).
 
 Platforms developers build voice agents on. Contractors typically don't deploy these directly; they're listed here for the engineers who do.
 
-- **[Retell AI](https://www.retellai.com/)** — Developer-friendly voice agent platform. Drag-and-drop builder, Twilio integration, multilingual, real-time workflows. OnCrew runs on Retell.
+- **[Retell AI](https://www.retellai.com/)** — Developer-friendly voice agent platform. Drag-and-drop builder, Twilio integration, multilingual, real-time workflows.
 - **[Vapi](https://vapi.ai/)** — Provider-agnostic voice AI orchestration. ~$0.05/min. 14+ provider backends.
 - **[ElevenLabs Conversational AI](https://elevenlabs.io/)** — Voice agent platform with the strongest TTS quality in the category. Sub-100ms latency.
 - **[LiveKit Agents](https://github.com/livekit/agents)** — Open-source real-time voice agent framework with WebRTC. Plugin architecture, MCP support.
@@ -40,7 +40,7 @@ Platforms developers build voice agents on. Contractors typically don't deploy t
 
 Finished products built FOR contractors with trade-specific intake configured during onboarding. Listed alphabetically.
 
-- **[OnCrew](https://oncrew.ai)** ($49–$349/mo by included minutes of answered calls, per-minute overage past them, 14-day free trial) — Contractor-specific AI answering for HVAC / plumbing / electrical / roofing / garage-door / appliance-repair / locksmith / pest-control / landscaping / painting / flooring / handyman / fire-restoration. Trade-specific safety branches, Priority-1 SMS handoff to on-call tech within 90 seconds. [Pricing source-of-truth](https://oncrew.ai/pricing). [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions). _Maintainer of this list — own bias._
+- **[OnCrew](https://oncrew.ai)** (Starter $49/mo with 150 minutes, Pro $149/mo with 200 minutes, Multi-Truck $349/mo with 500 minutes of answered calls; per-minute overage past them, $0.49/min on Starter and $0.99/min on Pro and Multi-Truck; 14-day free trial) — Contractor-specific AI answering for HVAC / plumbing / electrical / roofing / garage-door / appliance-repair / locksmith / pest-control / landscaping / painting / flooring / handyman / fire-restoration. Runs on OnCrew's own hosted voice agent and phone numbers (not built on a third-party voice-agent platform). Trade-specific safety branches; urgent calls are texted to the on-call tech, and every call is emailed with the recording and summary. Books the job on the owner's Google Calendar when booking is connected and switched on, otherwise takes the request. Demo line: (213) 319-5075. [Pricing source-of-truth](https://oncrew.ai/pricing). [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions). _Maintainer of this list — own bias._
 
 Send a PR adding any other genuinely-verticalized contractor product. The bar: configured per-trade intake out of the box, not "you write your own script."
 
