@@ -4,7 +4,7 @@
 
 This list exists because the public landscape of contractor-fit AI phone tools changes monthly and there is no single place to evaluate the category. Every entry below is listed with a one-line factual description, a pricing-model tag, and a primary-source link to the vendor's published pricing page (where one exists).
 
-Maintained by [OnCrew](https://oncrew.ai). Vendor-neutral by policy: OnCrew is one entry in the named-vendor section below alongside every competitor. The free 60-question intake checklist and the JSON API at the bottom are CC-BY-4.0 so any vendor (including OnCrew's competitors) can use them to evaluate themselves.
+Maintained by [OnCrew](https://oncrew.ai). Vendor-neutral by policy: OnCrew is one entry in the named-vendor section below alongside every competitor. The free 60-question intake checklist below is CC-BY-4.0 so any vendor (including OnCrew's competitors) can use them to evaluate themselves.
 
 PRs welcome — see [CONTRIBUTING.md](#contributing).
 
@@ -40,7 +40,7 @@ Platforms developers build voice agents on. Contractors typically don't deploy t
 
 Finished products built FOR contractors with trade-specific intake configured during onboarding. Listed alphabetically.
 
-- **[OnCrew](https://oncrew.ai)** (Starter $49/mo with 150 minutes, Pro $149/mo with 200 minutes, Multi-Truck $349/mo with 500 minutes of answered calls; per-minute overage past them, $0.49/min on Starter and $0.99/min on Pro and Multi-Truck; 14-day free trial) — Contractor-specific AI answering for HVAC / plumbing / electrical / roofing / garage-door / appliance-repair / locksmith / pest-control / landscaping / painting / flooring / handyman / fire-restoration. Runs on OnCrew's own hosted voice agent and phone numbers (not built on a third-party voice-agent platform). Trade-specific safety branches; urgent calls are texted to the on-call tech, and every call is emailed with the recording and summary. Books the job on the owner's Google Calendar when booking is connected and switched on, otherwise takes the request. Demo line: (213) 319-5075. [Pricing source-of-truth](https://oncrew.ai/pricing). [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions). _Maintainer of this list — own bias._
+- **[OnCrew](https://oncrew.ai)** (Starter $49/mo with 150 minutes, Pro $149/mo with 200 minutes, Multi-Truck $349/mo with 500 minutes of answered calls; per-minute overage past them, $0.49/min on Starter and $0.99/min on Pro and Multi-Truck; 14-day free trial) — Contractor-specific AI answering for HVAC / plumbing / electrical / roofing / garage-door / appliance-repair / locksmith / pest-control / landscaping / painting / flooring / handyman / fire-restoration. Runs on OnCrew's own hosted voice agent and phone numbers (not built on a third-party voice-agent platform). Trade-specific safety branches; urgent calls are texted to the on-call tech, and every call is emailed with the recording and summary. Books the job on the owner's Google Calendar when booking is connected and switched on, otherwise takes the request. Demo line: (213) 319-5075. [Pricing source-of-truth](https://oncrew.ai/pricing). [Free 60-question intake checklist](https://gist.github.com/Quirk6/51a50231fa6ce625a997af2ebf5e006b). _Maintainer of this list — own bias._
 
 Send a PR adding any other genuinely-verticalized contractor product. The bar: configured per-trade intake out of the box, not "you write your own script."
 
@@ -82,12 +82,10 @@ When a call goes unanswered, these tools send an automatic SMS reply. Not the sa
 
 Free resources for evaluating any answering service script. CC-BY or equivalent licenses.
 
-- **[OnCrew 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions)** — Six trades × 8-10 trade-specific intake questions each, safety-branch flags, per-trade escalation rule. Free HTML version.
-- **[OnCrew JSON API](https://oncrew.ai/api/triage-questions)** — Same dataset as machine-readable JSON. CC-BY-4.0. CORS open. For engineers building contractor SaaS, AI receptionist scripts, dispatch tooling, or research datasets.
+- **[OnCrew 60-question intake checklist](https://gist.github.com/Quirk6/51a50231fa6ce625a997af2ebf5e006b)** — Six trades × 8-10 trade-specific intake questions each, safety-branch flags, per-trade escalation rule. Free, as a public GitHub gist.
 
 ## Pricing comparison resources
 
-- **[OnCrew "Per-Minute Trap"](https://oncrew.ai/blog/per-minute-trap-why-live-answering-services-cost-most-during-your-worst-week)** — Cost analysis using publicly-listed Smith.ai / Ruby / Nexa / PATLive / AnswerConnect rates. Worst-week (heat wave, freeze, hail) peak-pricing math.
 - **[OnCrew Answering Service Cost Calculator](https://oncrew.ai/tools/answering-service-cost-calculator)** — Interactive cost comparison: voicemail vs live answering vs AI vs in-house.
 - **[OnCrew Missed-Call ROI Calculator](https://oncrew.ai/tools/missed-call-calculator)** — Estimate revenue at risk from after-hours voicemail.
 
@@ -113,9 +111,6 @@ Contractor CRMs that integrate with answering services or include phone-handling
 
 Authority pieces journalists and contractor-blog roundup writers can cite. Vendor-neutral analysis (or self-disclosed analysis with primary sources).
 
-- **[OnCrew 2026 Buyer's Bar: Six Standards Every Contractor AI Answering Service Must Meet](https://oncrew.ai/blog/six-standards-contractor-ai-answering-service-2026-buyers-bar)** — Six concrete operational standards (safety branches, trade-specific symptom capture, escalation rules, handoff packets, pricing transparency, AI disclosure).
-- **[OnCrew 5-Call Audit: How to Test Any AI Answering Service Before You Forward Your Line](https://oncrew.ai/blog/five-call-audit-every-contractor-should-run-on-any-ai-answering-service)** — Five specific test calls (burst pipe with electrical proximity, no-heat with infant, sparking outlet, active roof leak, broken garage spring) with passing-vendor expectations.
-- **[OnCrew Handoff Packet Field Standard](https://oncrew.ai/blog/ai-answering-service-handoff-packet-2026-field-standard)** — 11-field operational spec for the SMS / email handoff a contractor AI answering service should deliver to the on-call tech.
 - **[OnCrew "Best AI Answering Services for Contractors in 2026"](https://oncrew.ai/blog/best-ai-answering-services-contractors-2026)** — 10-vendor head-to-head with a shop-profile decision aid.
 
 ## Contributing
@@ -132,4 +127,4 @@ Open an issue or PR. License: [MIT](LICENSE).
 
 ---
 
-_Maintained by [OnCrew](https://oncrew.ai) · Contractor AI answering for HVAC, plumbing, electrical, roofing, and adjacent trades · [Press kit](https://oncrew.ai/press) · [Free intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions)_
+_Maintained by [OnCrew](https://oncrew.ai) · Contractor AI answering for HVAC, plumbing, electrical, roofing, and adjacent trades · [Free intake checklist](https://gist.github.com/Quirk6/51a50231fa6ce625a997af2ebf5e006b)_
