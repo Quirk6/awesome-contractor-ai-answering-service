@@ -88,6 +88,7 @@ Free resources for evaluating any answering service script. CC-BY or equivalent 
 
 - **[OnCrew Answering Service Cost Calculator](https://oncrew.ai/tools/answering-service-cost-calculator)** — Interactive cost comparison: voicemail vs live answering vs AI vs in-house.
 - **[OnCrew Missed-Call ROI Calculator](https://oncrew.ai/tools/missed-call-calculator)** — Estimate revenue at risk from after-hours voicemail.
+- **[Toolcrew AI receptionist pricing](https://toolcrew.app/ai-receptionist-pricing)**: Estimated monthly cost of AI receptionists at 100, 300 and 1,000 calls a month, read from each vendor's public pricing page, with a check date per vendor. US, USD. (Disclosed: maintained by the PR author; some Toolcrew links are affiliate links; OnCrew is one of the vendors listed.)
 
 ## Field service software with phone integration
 
